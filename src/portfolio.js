@@ -138,10 +138,10 @@ export const educationInfo = [
 		],
 	},
 	{
-		schoolName: "Subharti Institute of Technology and Engineering",
+		schoolName: "Subharti University",
 		subHeader: "Bachelor of Computer Applications",
 		duration: "2012-2015",
-		desc: "Participated in the multiple software engineering related workshops.",
+		desc: "Participated in the multiple workshops.",
 		descBullets: [
 		],
 	}
