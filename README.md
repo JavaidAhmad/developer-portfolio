@@ -4,11 +4,11 @@
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/JavaidAhmad/developer-portfolio/blob/master/picture.PNG"></img>
+    <img src="https://github.com/JavaidAhmad/developer-portfolio/blob/main/picture.PNG"></img>
   </kbd>
 </p>
 
-### To view a live example, **[click here](https://developer-portfolio.JavaidAhmad.vercel.app/)**.
+### To view a live example, **[click here](https://javaidtechie.web.app)**.
 
 Just Edit `src/portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
